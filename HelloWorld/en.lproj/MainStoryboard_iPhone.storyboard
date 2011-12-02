@@ -38,6 +38,13 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                             </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="button" lineBreakMode="tailTruncation" minimumFontSize="10" id="TjW-IF-KpM">
+                                <rect key="frame" x="139" y="367" width="42" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="0.97826086960000003" green="0.91848131079999995" blue="0.73914263440000005" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
@@ -59,7 +66,7 @@
                     </view>
                 </viewController>
             </objects>
-            <point key="canvasLocation" x="-246" y="528"/>
+            <point key="canvasLocation" x="-229" y="348"/>
         </scene>
     </scenes>
     <classes>
